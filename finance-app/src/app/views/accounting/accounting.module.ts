@@ -7,6 +7,7 @@ import { MonthlyExpensesComponent } from './monthly-expenses/monthly-expenses.co
 import { BalanceComponent } from './balance/balance.component';
 import { SavingsComponent } from './savings/savings.component';
 import { AccountingComponent } from './accounting.component';
+import { IncomeComponent } from './income/income.component';
 
 
 
@@ -18,7 +19,8 @@ import { AccountingComponent } from './accounting.component';
     MonthlyExpensesComponent,
     BalanceComponent,
     SavingsComponent,
-    AccountingComponent
+    AccountingComponent,
+    IncomeComponent
   ],
   imports: [
     CommonModule
